@@ -1,0 +1,406 @@
+unsure Slovakia {'weight': 517, 'tweet_id': 1628864068785250307, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Italy {'weight': 7785, 'tweet_id': 1509649882725892096, 'entail_prob': 0.29, 'contra_prob': 0.71}
+unsure India {'weight': 18523, 'tweet_id': 1499321342621274112, 'entail_prob': 0.38, 'contra_prob': 0.62}
+unsure Czech Republic {'weight': 3254, 'tweet_id': 1488471544569516034, 'entail_prob': 0.57, 'contra_prob': 0.43}
+unsure Nepal {'weight': 145, 'tweet_id': 1488361207438319622, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure Ukraine {'weight': 49608, 'tweet_id': 1489509375119171587, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure Japan {'weight': 1848, 'tweet_id': 1500741042869395456, 'entail_prob': 0.1, 'contra_prob': 0.9}
+unsure United States of America {'weight': 51475, 'tweet_id': 1506187819701751810, 'entail_prob': 0.19, 'contra_prob': 0.81}
+unsure Azerbaijan {'weight': 154, 'tweet_id': 1517820900938235904, 'entail_prob': 0.26, 'contra_prob': 0.74}
+unsure South Africa {'weight': 212, 'tweet_id': 1498556509361696768, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Latvia {'weight': 9, 'tweet_id': 1497236272267550720, 'entail_prob': 0.08, 'contra_prob': 0.92}
+unsure Saudi Arabia {'weight': 56600, 'tweet_id': 1493614591833686027, 'entail_prob': 0.12, 'contra_prob': 0.88}
+unsure United Arab Emirates {'weight': 14335, 'tweet_id': 1488323857744228353, 'entail_prob': 0.35, 'contra_prob': 0.65}
+unsure Turkey {'weight': 60809, 'tweet_id': 1498982072966340611, 'entail_prob': 0.25, 'contra_prob': 0.75}
+unsure Qatar {'weight': 16196, 'tweet_id': 1504042541359923200, 'entail_prob': 0.05, 'contra_prob': 0.95}
+unsure Israel {'weight': 25057, 'tweet_id': 1488433239081594882, 'entail_prob': 0.32, 'contra_prob': 0.68}
+unsure Egypt {'weight': 5757, 'tweet_id': 1492245953591533572, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Lebanon {'weight': 8532, 'tweet_id': 1498568725963816960, 'entail_prob': 0.03, 'contra_prob': 0.97}
+unsure State of Palestine {'weight': 1398, 'tweet_id': 1496807772989575168, 'entail_prob': 0.27, 'contra_prob': 0.73}
+unsure People's Republic of China {'weight': 2762, 'tweet_id': 1498653545159335939, 'entail_prob': 0.12, 'contra_prob': 0.88}
+unsure Germany {'weight': 8436, 'tweet_id': 1502325985710161924, 'entail_prob': 0.1, 'contra_prob': 0.9}
+unsure Algeria {'weight': 1723, 'tweet_id': 1492499253939380228, 'entail_prob': 0.24, 'contra_prob': 0.76}
+unsure Morocco {'weight': 1377, 'tweet_id': 1491363884611125249, 'entail_prob': 0.34, 'contra_prob': 0.66}
+unsure France {'weight': 21646, 'tweet_id': 1496923129892917267, 'entail_prob': 0.04, 'contra_prob': 0.96}
+unsure Tunisia {'weight': 422, 'tweet_id': 1489558798616379399, 'entail_prob': 0.39, 'contra_prob': 0.61}
+unsure Iraq {'weight': 1647, 'tweet_id': 1488474713596694532, 'entail_prob': 0.22, 'contra_prob': 0.78}
+unsure South Korea {'weight': 407, 'tweet_id': 1492783954545446912, 'entail_prob': 0.22, 'contra_prob': 0.78}
+unsure United Kingdom {'weight': 25013, 'tweet_id': 1488576650170224640, 'entail_prob': 0.16, 'contra_prob': 0.84}
+unsure Syria {'weight': 5382, 'tweet_id': 1504083573371985923, 'entail_prob': 0.16, 'contra_prob': 0.83}
+unsure Iran {'weight': 1895, 'tweet_id': 1623837148599271424, 'entail_prob': 0.29, 'contra_prob': 0.71}
+unsure Libya {'weight': 68, 'tweet_id': 1488603067620548609, 'entail_prob': 0.15, 'contra_prob': 0.84}
+unsure Kuwait {'weight': 3, 'tweet_id': 1653755380109910016, 'entail_prob': 0.25, 'contra_prob': 0.75}
+unsure Australia {'weight': 1516, 'tweet_id': 1514682832559357974, 'entail_prob': 0.09, 'contra_prob': 0.91}
+unsure Singapore {'weight': 1462, 'tweet_id': 1508771472101105668, 'entail_prob': 0.3, 'contra_prob': 0.7}
+unsure Pakistan {'weight': 4892, 'tweet_id': 1588444185006252032, 'entail_prob': 0.22, 'contra_prob': 0.78}
+unsure Nigeria {'weight': 511, 'tweet_id': 1509598050867625989, 'entail_prob': 0.2, 'contra_prob': 0.8}
+unsure Canada {'weight': 3553, 'tweet_id': 1521444479374352385, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Philippines {'weight': 1327, 'tweet_id': 1598665787887296513, 'entail_prob': 0.28, 'contra_prob': 0.72}
+unsure Argentina {'weight': 3531, 'tweet_id': 1494799082224820228, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Portugal {'weight': 11813, 'tweet_id': 1500950947463376901, 'entail_prob': 0.07, 'contra_prob': 0.93}
+unsure Brazil {'weight': 21489, 'tweet_id': 1496795715556847616, 'entail_prob': 0.21, 'contra_prob': 0.79}
+unsure Chile {'weight': 1168, 'tweet_id': 1653767636621176834, 'entail_prob': 0.17, 'contra_prob': 0.83}
+unsure Spain {'weight': 21220, 'tweet_id': 1496729250833264640, 'entail_prob': 0.21, 'contra_prob': 0.79}
+unsure Bulgaria {'weight': 90, 'tweet_id': 1497969859845660679, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Slovenia {'weight': 2, 'tweet_id': 1514107657208184832, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Finland {'weight': 3620, 'tweet_id': 1501709791726608384, 'entail_prob': 0.15, 'contra_prob': 0.85}
+unsure Thailand {'weight': 1159, 'tweet_id': 1496400079984414723, 'entail_prob': 0.19, 'contra_prob': 0.81}
+unsure Denmark {'weight': 3687, 'tweet_id': 1499386891103195136, 'entail_prob': 0.15, 'contra_prob': 0.85}
+unsure Norway {'weight': 3408, 'tweet_id': 1488985105544753155, 'entail_prob': 0.19, 'contra_prob': 0.81}
+unsure Sweden {'weight': 1259, 'tweet_id': 1488938882829803522, 'entail_prob': 0.23, 'contra_prob': 0.77}
+unsure Lithuania {'weight': 205, 'tweet_id': 1490711113771536388, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Romania {'weight': 4436, 'tweet_id': 1488387273309650944, 'entail_prob': 0.08, 'contra_prob': 0.92}
+unsure Bangladesh {'weight': 1774, 'tweet_id': 1491815696342618112, 'entail_prob': 0.27, 'contra_prob': 0.73}
+unsure Afghanistan {'weight': 91, 'tweet_id': 1607996671786459136, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Greece {'weight': 6983, 'tweet_id': 1493516662867468289, 'entail_prob': 0.07, 'contra_prob': 0.93}
+unsure Cyprus {'weight': 3575, 'tweet_id': 1493627119498416131, 'entail_prob': 0.18, 'contra_prob': 0.82}
+unsure Russia {'weight': 20162, 'tweet_id': 1498700088545320970, 'entail_prob': 0.45, 'contra_prob': 0.55}
+unsure Kazakhstan {'weight': 258, 'tweet_id': 1488452106700865536, 'entail_prob': 0.26, 'contra_prob': 0.74}
+unsure Belarus {'weight': 2232, 'tweet_id': 1488887495219634178, 'entail_prob': 0.14, 'contra_prob': 0.86}
+unsure Poland {'weight': 1082, 'tweet_id': 1539225587352424448, 'entail_prob': 0.22, 'contra_prob': 0.78}
+unsure Hungary {'weight': 67, 'tweet_id': 1502248336430096392, 'entail_prob': 0.01, 'contra_prob': 0.99}
+unsure Switzerland {'weight': 504, 'tweet_id': 1504115330045685764, 'entail_prob': 0.47, 'contra_prob': 0.53}
+unsure Luxembourg {'weight': 57, 'tweet_id': 1528994445990891520, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Austria {'weight': 292, 'tweet_id': 1499302620200161283, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Republic of Ireland {'weight': 1583, 'tweet_id': 1497737151378771974, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Malaysia {'weight': 1116, 'tweet_id': 1500064529601810435, 'entail_prob': 0.19, 'contra_prob': 0.81}
+unsure Netherlands {'weight': 1463, 'tweet_id': 1628753156497604608, 'entail_prob': 0.11, 'contra_prob': 0.89}
+unsure Belgium {'weight': 1281, 'tweet_id': 1506228732872343555, 'entail_prob': 0.18, 'contra_prob': 0.82}
+unsure Indonesia {'weight': 12307, 'tweet_id': 1496868558605029378, 'entail_prob': 0.06, 'contra_prob': 0.94}
+unsure Haiti {'weight': 13, 'tweet_id': 1492171844815892480, 'entail_prob': 0.05, 'contra_prob': 0.95}
+unsure Senegal {'weight': 12, 'tweet_id': 1536515763137282048, 'entail_prob': 0.25, 'contra_prob': 0.75}
+unsure Monaco {'weight': 6, 'tweet_id': 1497259162845290499, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure Mexico {'weight': 1886, 'tweet_id': 1516144605699493898, 'entail_prob': 0.33, 'contra_prob': 0.67}
+unsure Cuba {'weight': 130, 'tweet_id': 1496838955454640131, 'entail_prob': 0.4, 'contra_prob': 0.6}
+unsure Colombia {'weight': 884, 'tweet_id': 1644329175665213442, 'entail_prob': 0.35, 'contra_prob': 0.65}
+unsure Venezuela {'weight': 1599, 'tweet_id': 1495743478613094403, 'entail_prob': 0.05, 'contra_prob': 0.95}
+unsure Nicaragua {'weight': 47, 'tweet_id': 1496841335525023745, 'entail_prob': 0.16, 'contra_prob': 0.84}
+unsure Guatemala {'weight': 251, 'tweet_id': 1495915118626066432, 'entail_prob': 0.19, 'contra_prob': 0.81}
+unsure Honduras {'weight': 107, 'tweet_id': 1502665012678115332, 'entail_prob': 0.18, 'contra_prob': 0.82}
+unsure Ecuador {'weight': 211, 'tweet_id': 1534749662141358081, 'entail_prob': 0.1, 'contra_prob': 0.9}
+unsure Panama {'weight': 368, 'tweet_id': 1540902676954849280, 'entail_prob': 0.23, 'contra_prob': 0.77}
+unsure Bolivia {'weight': 169, 'tweet_id': 1499330972516589568, 'entail_prob': 0.04, 'contra_prob': 0.96}
+unsure Peru {'weight': 169, 'tweet_id': 1653769815738261506, 'entail_prob': 0.17, 'contra_prob': 0.83}
+unsure Uruguay {'weight': 145, 'tweet_id': 1499877412225617924, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure El Salvador {'weight': 73, 'tweet_id': 1492483634166599681, 'entail_prob': 0.03, 'contra_prob': 0.97}
+unsure Paraguay {'weight': 15, 'tweet_id': 1496776605632503809, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Costa Rica {'weight': 2, 'tweet_id': 1504648796956942338, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure Dominican Republic {'weight': 1, 'tweet_id': 1513861994029277189, 'entail_prob': 0.0, 'contra_prob': 1.0}
+unsure Equatorial Guinea {'weight': 1, 'tweet_id': 1498342833236987904, 'entail_prob': 0.28, 'contra_prob': 0.72}
+unsure Ghana {'weight': 118, 'tweet_id': 1497872606938247169, 'entail_prob': 0.25, 'contra_prob': 0.75}
+unsure Uganda {'weight': 132, 'tweet_id': 1496889090519801856, 'entail_prob': 0.18, 'contra_prob': 0.82}
+unsure Kenya {'weight': 345, 'tweet_id': 1520739165117337600, 'entail_prob': 0.27, 'contra_prob': 0.73}
+unsure Republic of the Congo {'weight': 28, 'tweet_id': 1495160210515804163, 'entail_prob': 0.08, 'contra_prob': 0.92}
+unsure Fiji {'weight': 7, 'tweet_id': 1497728314433482752, 'entail_prob': 0.03, 'contra_prob': 0.97}
+unsure Croatia {'weight': 10, 'tweet_id': 1495895580563935232, 'entail_prob': 0.08, 'contra_prob': 0.92}
+unsure Bosnia and Herzegovina {'weight': 27, 'tweet_id': 1497218698007953428, 'entail_prob': 0.18, 'contra_prob': 0.82}
+unsure Jamaica {'weight': 108, 'tweet_id': 1503443536196382721, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Barbados {'weight': 10, 'tweet_id': 1633229228404621312, 'entail_prob': 0.27, 'contra_prob': 0.72}
+unsure Taiwan {'weight': 45, 'tweet_id': 1492410393976782851, 'entail_prob': 0.24, 'contra_prob': 0.76}
+unsure New Zealand {'weight': 26, 'tweet_id': 1500958289844371456, 'entail_prob': 0.04, 'contra_prob': 0.96}
+unsure Ethiopia {'weight': 3, 'tweet_id': 1516741509747552261, 'entail_prob': 0.07, 'contra_prob': 0.93}
+unsure Georgia {'weight': 8, 'tweet_id': 1505964205287084039, 'entail_prob': 0.05, 'contra_prob': 0.95}
+unsure Estonia {'weight': 1, 'tweet_id': 1567022907016024066, 'entail_prob': 0.01, 'contra_prob': 0.99}
+unsure Tuvalu {'weight': 4, 'tweet_id': 1496893009891401737, 'entail_prob': 0.09, 'contra_prob': 0.91}
+unsure Serbia {'weight': 63, 'tweet_id': 1529479397035716609, 'entail_prob': 0.17, 'contra_prob': 0.83}
+unsure Trinidad and Tobago {'weight': 3, 'tweet_id': 1502226604122320897, 'entail_prob': 0.1, 'contra_prob': 0.9}
+unsure North Korea {'weight': 1, 'tweet_id': 1564478509271187457, 'entail_prob': 0.2, 'contra_prob': 0.8}
+unsure Papua New Guinea {'weight': 1, 'tweet_id': 1533757161834414080, 'entail_prob': 0.02, 'contra_prob': 0.98}
+unsure Myanmar {'weight': 1, 'tweet_id': 1501103816078692356, 'entail_prob': 0.13, 'contra_prob': 0.87}
+unsure Uzbekistan {'weight': 17, 'tweet_id': 1560316700964290561, 'entail_prob': 0.05, 'contra_prob': 0.95}
+unsure Hong Kong {'weight': 24, 'tweet_id': 1631206150778630145, 'entail_prob': 0.35, 'contra_prob': 0.65}
+unsure Bahrain {'weight': 17, 'tweet_id': 1492546288583385089, 'entail_prob': 0.25, 'contra_prob': 0.75}
+unsure Sudan {'weight': 2, 'tweet_id': 1541438869438173185, 'entail_prob': 0.28, 'contra_prob': 0.72}
+unsure Suriname {'weight': 1, 'tweet_id': 1529482954510151680, 'entail_prob': 0.36, 'contra_prob': 0.64}
+unsure Kyrgyzstan {'weight': 11, 'tweet_id': 1526182565513674753, 'entail_prob': 0.21, 'contra_prob': 0.79}
+pro-Ukraine India {'weight': 5202, 'tweet_id': 1500038429606039552, 'entail_prob': 0.52, 'contra_prob': 0.48}
+pro-Ukraine Czech Republic {'weight': 206, 'tweet_id': 1488750759806124035, 'entail_prob': 0.69, 'contra_prob': 0.31}
+pro-Ukraine France {'weight': 4973, 'tweet_id': 1497843952682156033, 'entail_prob': 0.43, 'contra_prob': 0.57}
+pro-Ukraine Ukraine {'weight': 5581, 'tweet_id': 1491417350138363905, 'entail_prob': 0.76, 'contra_prob': 0.24}
+pro-Ukraine Nepal {'weight': 11, 'tweet_id': 1499218480142614532, 'entail_prob': 0.13, 'contra_prob': 0.87}
+pro-Ukraine Azerbaijan {'weight': 6, 'tweet_id': 1513879619048333312, 'entail_prob': 0.87, 'contra_prob': 0.13}
+pro-Ukraine South Korea {'weight': 61, 'tweet_id': 1583566323736403969, 'entail_prob': 0.19, 'contra_prob': 0.81}
+pro-Ukraine Saudi Arabia {'weight': 9349, 'tweet_id': 1498332256045314048, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Ukraine United Arab Emirates {'weight': 919, 'tweet_id': 1497050101314846724, 'entail_prob': 0.27, 'contra_prob': 0.73}
+pro-Ukraine Turkey {'weight': 4880, 'tweet_id': 1496698560909352962, 'entail_prob': 0.77, 'contra_prob': 0.23}
+pro-Ukraine Israel {'weight': 1534, 'tweet_id': 1501184122047324162, 'entail_prob': 0.47, 'contra_prob': 0.53}
+pro-Ukraine Qatar {'weight': 4171, 'tweet_id': 1489036442068213765, 'entail_prob': 0.17, 'contra_prob': 0.83}
+pro-Ukraine Egypt {'weight': 1152, 'tweet_id': 1494744747495337992, 'entail_prob': 0.45, 'contra_prob': 0.55}
+pro-Ukraine Lebanon {'weight': 659, 'tweet_id': 1495843589825474563, 'entail_prob': 0.27, 'contra_prob': 0.73}
+pro-Ukraine State of Palestine {'weight': 126, 'tweet_id': 1492499694542589959, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Ukraine People's Republic of China {'weight': 257, 'tweet_id': 1517181652312760323, 'entail_prob': 0.13, 'contra_prob': 0.87}
+pro-Ukraine Germany {'weight': 2267, 'tweet_id': 1500454503400849413, 'entail_prob': 0.35, 'contra_prob': 0.65}
+pro-Ukraine Algeria {'weight': 113, 'tweet_id': 1491736919117545475, 'entail_prob': 0.69, 'contra_prob': 0.31}
+pro-Ukraine Morocco {'weight': 74, 'tweet_id': 1506185944768352262, 'entail_prob': 0.72, 'contra_prob': 0.28}
+pro-Ukraine Tunisia {'weight': 40, 'tweet_id': 1494661814566764545, 'entail_prob': 0.72, 'contra_prob': 0.28}
+pro-Ukraine United States of America {'weight': 12372, 'tweet_id': 1496769003658031108, 'entail_prob': 0.67, 'contra_prob': 0.33}
+pro-Ukraine Iraq {'weight': 113, 'tweet_id': 1498219232089227266, 'entail_prob': 0.74, 'contra_prob': 0.26}
+pro-Ukraine United Kingdom {'weight': 8182, 'tweet_id': 1488774204237524993, 'entail_prob': 0.35, 'contra_prob': 0.65}
+pro-Ukraine Syria {'weight': 222, 'tweet_id': 1490280041455964166, 'entail_prob': 0.23, 'contra_prob': 0.77}
+pro-Ukraine Iran {'weight': 542, 'tweet_id': 1575835516443889669, 'entail_prob': 0.75, 'contra_prob': 0.25}
+pro-Ukraine Bahrain {'weight': 1, 'tweet_id': 1628800817770684416, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Ukraine Libya {'weight': 4, 'tweet_id': 1503724375958302722, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Ukraine Nigeria {'weight': 92, 'tweet_id': 1498236331142561795, 'entail_prob': 0.42, 'contra_prob': 0.58}
+pro-Ukraine Japan {'weight': 265, 'tweet_id': 1501749262446596096, 'entail_prob': 0.78, 'contra_prob': 0.22}
+pro-Ukraine Italy {'weight': 3259, 'tweet_id': 1504975984537255939, 'entail_prob': 0.84, 'contra_prob': 0.16}
+pro-Ukraine Malaysia {'weight': 94, 'tweet_id': 1508268347418636289, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Ukraine Pakistan {'weight': 542, 'tweet_id': 1497207190020521987, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Ukraine Afghanistan {'weight': 17, 'tweet_id': 1497121957191774210, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Canada {'weight': 1156, 'tweet_id': 1529375721130450945, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Ukraine Argentina {'weight': 1346, 'tweet_id': 1506267694097567746, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Ukraine Brazil {'weight': 2116, 'tweet_id': 1493909511081541633, 'entail_prob': 0.24, 'contra_prob': 0.76}
+pro-Ukraine Portugal {'weight': 1321, 'tweet_id': 1497344690391339011, 'entail_prob': 0.69, 'contra_prob': 0.31}
+pro-Ukraine Chile {'weight': 233, 'tweet_id': 1496748037300912128, 'entail_prob': 0.41, 'contra_prob': 0.59}
+pro-Ukraine Mexico {'weight': 682, 'tweet_id': 1522207484747956225, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Ukraine Bulgaria {'weight': 1, 'tweet_id': 1500121847622516748, 'entail_prob': 0.29, 'contra_prob': 0.71}
+pro-Ukraine Finland {'weight': 381, 'tweet_id': 1520901025602973704, 'entail_prob': 0.7, 'contra_prob': 0.3}
+pro-Ukraine Thailand {'weight': 80, 'tweet_id': 1492453080540999682, 'entail_prob': 0.81, 'contra_prob': 0.19}
+pro-Ukraine Denmark {'weight': 196, 'tweet_id': 1495780126465806336, 'entail_prob': 0.47, 'contra_prob': 0.53}
+pro-Ukraine Norway {'weight': 228, 'tweet_id': 1503027119445655560, 'entail_prob': 0.28, 'contra_prob': 0.72}
+pro-Ukraine Singapore {'weight': 520, 'tweet_id': 1499762764339982346, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Tuvalu {'weight': 3, 'tweet_id': 1506407137316163590, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Spain {'weight': 3989, 'tweet_id': 1516685557916741637, 'entail_prob': 0.8, 'contra_prob': 0.2}
+pro-Ukraine Sweden {'weight': 73, 'tweet_id': 1502225082835681281, 'entail_prob': 0.15, 'contra_prob': 0.85}
+pro-Ukraine Romania {'weight': 374, 'tweet_id': 1490924369241018370, 'entail_prob': 0.37, 'contra_prob': 0.63}
+pro-Ukraine Bangladesh {'weight': 261, 'tweet_id': 1514211547186225153, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Ukraine Greece {'weight': 534, 'tweet_id': 1498375664084393988, 'entail_prob': 0.12, 'contra_prob': 0.88}
+pro-Ukraine Cyprus {'weight': 436, 'tweet_id': 1496927771934789635, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Ukraine Russia {'weight': 1492, 'tweet_id': 1498758777264349191, 'entail_prob': 0.77, 'contra_prob': 0.23}
+pro-Ukraine Belarus {'weight': 431, 'tweet_id': 1504867805124038675, 'entail_prob': 0.82, 'contra_prob': 0.18}
+pro-Ukraine Kazakhstan {'weight': 8, 'tweet_id': 1493072587152400398, 'entail_prob': 0.24, 'contra_prob': 0.76}
+pro-Ukraine Hungary {'weight': 8, 'tweet_id': 1501177745006645250, 'entail_prob': 0.18, 'contra_prob': 0.82}
+pro-Ukraine Switzerland {'weight': 115, 'tweet_id': 1501836532797386752, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Austria {'weight': 127, 'tweet_id': 1497199263259967498, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Ukraine Luxembourg {'weight': 14, 'tweet_id': 1498633718394757121, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Ukraine Netherlands {'weight': 317, 'tweet_id': 1499686148666531842, 'entail_prob': 0.12, 'contra_prob': 0.88}
+pro-Ukraine Belgium {'weight': 396, 'tweet_id': 1490008854624677896, 'entail_prob': 0.42, 'contra_prob': 0.58}
+pro-Ukraine Poland {'weight': 342, 'tweet_id': 1498244085496172548, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Ukraine Indonesia {'weight': 588, 'tweet_id': 1497152329761505280, 'entail_prob': 0.48, 'contra_prob': 0.51}
+pro-Ukraine Monaco {'weight': 2, 'tweet_id': 1516783392779640848, 'entail_prob': 0.13, 'contra_prob': 0.87}
+pro-Ukraine Senegal {'weight': 1, 'tweet_id': 1524739661909868545, 'entail_prob': 0.31, 'contra_prob': 0.69}
+pro-Ukraine Haiti {'weight': 2, 'tweet_id': 1493602362077982721, 'entail_prob': 0.27, 'contra_prob': 0.73}
+pro-Ukraine Cuba {'weight': 64, 'tweet_id': 1488869814177189889, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Colombia {'weight': 343, 'tweet_id': 1504596696403259395, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Ukraine Venezuela {'weight': 750, 'tweet_id': 1506079279284686851, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Ukraine Nicaragua {'weight': 24, 'tweet_id': 1491461909551489024, 'entail_prob': 0.25, 'contra_prob': 0.75}
+pro-Ukraine Guatemala {'weight': 69, 'tweet_id': 1496825628066209792, 'entail_prob': 0.31, 'contra_prob': 0.69}
+pro-Ukraine Peru {'weight': 75, 'tweet_id': 1505869293292081153, 'entail_prob': 0.38, 'contra_prob': 0.62}
+pro-Ukraine Honduras {'weight': 40, 'tweet_id': 1499412749335498754, 'entail_prob': 0.26, 'contra_prob': 0.74}
+pro-Ukraine Ecuador {'weight': 96, 'tweet_id': 1656076630857506817, 'entail_prob': 0.37, 'contra_prob': 0.63}
+pro-Ukraine Panama {'weight': 140, 'tweet_id': 1508484070392610817, 'entail_prob': 0.29, 'contra_prob': 0.71}
+pro-Ukraine Bolivia {'weight': 63, 'tweet_id': 1499162008293412871, 'entail_prob': 0.33, 'contra_prob': 0.67}
+pro-Ukraine Uruguay {'weight': 35, 'tweet_id': 1496937926512582658, 'entail_prob': 0.21, 'contra_prob': 0.79}
+pro-Ukraine El Salvador {'weight': 22, 'tweet_id': 1493695743286292486, 'entail_prob': 0.21, 'contra_prob': 0.79}
+pro-Ukraine Paraguay {'weight': 3, 'tweet_id': 1500120610462183426, 'entail_prob': 0.2, 'contra_prob': 0.8}
+pro-Ukraine Dominican Republic {'weight': 1, 'tweet_id': 1497875215245881346, 'entail_prob': 0.46, 'contra_prob': 0.54}
+pro-Ukraine Republic of Ireland {'weight': 605, 'tweet_id': 1496881527514353670, 'entail_prob': 0.42, 'contra_prob': 0.58}
+pro-Ukraine Australia {'weight': 526, 'tweet_id': 1499829781986041859, 'entail_prob': 0.24, 'contra_prob': 0.76}
+pro-Ukraine Philippines {'weight': 405, 'tweet_id': 1493424828342095875, 'entail_prob': 0.17, 'contra_prob': 0.83}
+pro-Ukraine South Africa {'weight': 58, 'tweet_id': 1502221965326786561, 'entail_prob': 0.49, 'contra_prob': 0.51}
+pro-Ukraine Uganda {'weight': 7, 'tweet_id': 1496770595215839232, 'entail_prob': 0.4, 'contra_prob': 0.6}
+pro-Ukraine Kenya {'weight': 25, 'tweet_id': 1497858638999961603, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Ukraine Republic of the Congo {'weight': 8, 'tweet_id': 1497285858805886976, 'entail_prob': 0.37, 'contra_prob': 0.63}
+pro-Ukraine Bosnia and Herzegovina {'weight': 3, 'tweet_id': 1512022331052466184, 'entail_prob': 0.22, 'contra_prob': 0.78}
+pro-Ukraine Lithuania {'weight': 47, 'tweet_id': 1497262201966632966, 'entail_prob': 0.46, 'contra_prob': 0.54}
+pro-Ukraine Taiwan {'weight': 12, 'tweet_id': 1497500239065849858, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Ukraine Jamaica {'weight': 10, 'tweet_id': 1496872572633464834, 'entail_prob': 0.19, 'contra_prob': 0.81}
+pro-Ukraine New Zealand {'weight': 6, 'tweet_id': 1499988091993571328, 'entail_prob': 0.19, 'contra_prob': 0.81}
+pro-Ukraine Georgia {'weight': 7, 'tweet_id': 1497311121673531398, 'entail_prob': 0.35, 'contra_prob': 0.65}
+pro-Ukraine Barbados {'weight': 3, 'tweet_id': 1497966748573716488, 'entail_prob': 0.33, 'contra_prob': 0.67}
+pro-Ukraine Croatia {'weight': 3, 'tweet_id': 1584544200686641152, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Ukraine Ghana {'weight': 18, 'tweet_id': 1497158255335911426, 'entail_prob': 0.46, 'contra_prob': 0.54}
+pro-Ukraine Fiji {'weight': 1, 'tweet_id': 1499191441113100288, 'entail_prob': 0.5, 'contra_prob': 0.5}
+pro-Ukraine Trinidad and Tobago {'weight': 1, 'tweet_id': 1502007656344608772, 'entail_prob': 0.2, 'contra_prob': 0.8}
+pro-Ukraine Hong Kong {'weight': 2, 'tweet_id': 1654520103134986242, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Russia India {'weight': 438, 'tweet_id': 1505443167101136896, 'entail_prob': 0.93, 'contra_prob': 0.07}
+pro-Russia Czech Republic {'weight': 56, 'tweet_id': 1496825909587988485, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Russia Ukraine {'weight': 1034, 'tweet_id': 1494294116150263809, 'entail_prob': 0.8, 'contra_prob': 0.2}
+pro-Russia Azerbaijan {'weight': 8, 'tweet_id': 1517572733147750411, 'entail_prob': 0.57, 'contra_prob': 0.43}
+pro-Russia Saudi Arabia {'weight': 1253, 'tweet_id': 1499449691813167106, 'entail_prob': 0.15, 'contra_prob': 0.85}
+pro-Russia United Arab Emirates {'weight': 239, 'tweet_id': 1494995708927086595, 'entail_prob': 0.37, 'contra_prob': 0.63}
+pro-Russia Turkey {'weight': 965, 'tweet_id': 1495057720290033664, 'entail_prob': 0.79, 'contra_prob': 0.21}
+pro-Russia Qatar {'weight': 248, 'tweet_id': 1494736207875559426, 'entail_prob': 0.35, 'contra_prob': 0.65}
+pro-Russia Lebanon {'weight': 77, 'tweet_id': 1514312468084015111, 'entail_prob': 0.4, 'contra_prob': 0.6}
+pro-Russia State of Palestine {'weight': 58, 'tweet_id': 1490787607772598277, 'entail_prob': 0.31, 'contra_prob': 0.69}
+pro-Russia Egypt {'weight': 95, 'tweet_id': 1493283555622981633, 'entail_prob': 0.35, 'contra_prob': 0.65}
+pro-Russia France {'weight': 648, 'tweet_id': 1497204259099713539, 'entail_prob': 0.24, 'contra_prob': 0.76}
+pro-Russia United States of America {'weight': 1183, 'tweet_id': 1488775418723418113, 'entail_prob': 0.46, 'contra_prob': 0.54}
+pro-Russia Iraq {'weight': 33, 'tweet_id': 1496164694217965568, 'entail_prob': 0.59, 'contra_prob': 0.42}
+pro-Russia United Kingdom {'weight': 648, 'tweet_id': 1498326406257913865, 'entail_prob': 0.42, 'contra_prob': 0.58}
+pro-Russia Morocco {'weight': 20, 'tweet_id': 1497204759190818820, 'entail_prob': 0.95, 'contra_prob': 0.05}
+pro-Russia South Korea {'weight': 15, 'tweet_id': 1576585325014847488, 'entail_prob': 0.52, 'contra_prob': 0.48}
+pro-Russia People's Republic of China {'weight': 51, 'tweet_id': 1661624399324393477, 'entail_prob': 0.8, 'contra_prob': 0.2}
+pro-Russia Syria {'weight': 207, 'tweet_id': 1489899979951034371, 'entail_prob': 0.21, 'contra_prob': 0.79}
+pro-Russia Algeria {'weight': 43, 'tweet_id': 1492438111510581251, 'entail_prob': 0.79, 'contra_prob': 0.21}
+pro-Russia Iran {'weight': 54, 'tweet_id': 1654531814503874566, 'entail_prob': 0.76, 'contra_prob': 0.24}
+pro-Russia Tunisia {'weight': 10, 'tweet_id': 1497455107104854016, 'entail_prob': 0.38, 'contra_prob': 0.62}
+pro-Russia Germany {'weight': 240, 'tweet_id': 1495852007382519812, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Russia Israel {'weight': 282, 'tweet_id': 1493079767737942017, 'entail_prob': 0.75, 'contra_prob': 0.25}
+pro-Russia Japan {'weight': 26, 'tweet_id': 1522656700612104192, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Russia Singapore {'weight': 48, 'tweet_id': 1499338061544509440, 'entail_prob': 0.37, 'contra_prob': 0.63}
+pro-Russia Italy {'weight': 674, 'tweet_id': 1522890994353643525, 'entail_prob': 0.43, 'contra_prob': 0.57}
+pro-Russia Brazil {'weight': 405, 'tweet_id': 1500977562813673473, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Russia Portugal {'weight': 208, 'tweet_id': 1497345735960023045, 'entail_prob': 0.21, 'contra_prob': 0.79}
+pro-Russia Chile {'weight': 51, 'tweet_id': 1498631286344269824, 'entail_prob': 0.25, 'contra_prob': 0.75}
+pro-Russia Finland {'weight': 50, 'tweet_id': 1523417170046185472, 'entail_prob': 0.88, 'contra_prob': 0.12}
+pro-Russia Thailand {'weight': 23, 'tweet_id': 1497075925141258242, 'entail_prob': 0.79, 'contra_prob': 0.21}
+pro-Russia Denmark {'weight': 45, 'tweet_id': 1497933059571675142, 'entail_prob': 0.22, 'contra_prob': 0.78}
+pro-Russia Norway {'weight': 37, 'tweet_id': 1508545545253666816, 'entail_prob': 0.14, 'contra_prob': 0.86}
+pro-Russia Spain {'weight': 844, 'tweet_id': 1493512271238254592, 'entail_prob': 0.48, 'contra_prob': 0.52}
+pro-Russia Sweden {'weight': 5, 'tweet_id': 1517054513869430786, 'entail_prob': 0.46, 'contra_prob': 0.54}
+pro-Russia Romania {'weight': 98, 'tweet_id': 1498946498070913025, 'entail_prob': 0.43, 'contra_prob': 0.57}
+pro-Russia Bangladesh {'weight': 66, 'tweet_id': 1500004784161837057, 'entail_prob': 0.17, 'contra_prob': 0.83}
+pro-Russia Pakistan {'weight': 127, 'tweet_id': 1495800417535545346, 'entail_prob': 0.23, 'contra_prob': 0.77}
+pro-Russia Greece {'weight': 99, 'tweet_id': 1497107960123867166, 'entail_prob': 0.32, 'contra_prob': 0.68}
+pro-Russia Cyprus {'weight': 36, 'tweet_id': 1497853328495157248, 'entail_prob': 0.32, 'contra_prob': 0.68}
+pro-Russia Russia {'weight': 793, 'tweet_id': 1499032529176780801, 'entail_prob': 0.81, 'contra_prob': 0.19}
+pro-Russia Belarus {'weight': 48, 'tweet_id': 1504115387893530628, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Russia Canada {'weight': 149, 'tweet_id': 1524298292955389952, 'entail_prob': 0.54, 'contra_prob': 0.46}
+pro-Russia Switzerland {'weight': 32, 'tweet_id': 1497832003592355840, 'entail_prob': 0.44, 'contra_prob': 0.56}
+pro-Russia Austria {'weight': 14, 'tweet_id': 1496920556343545862, 'entail_prob': 0.2, 'contra_prob': 0.8}
+pro-Russia Philippines {'weight': 21, 'tweet_id': 1496273288137375745, 'entail_prob': 0.5, 'contra_prob': 0.5}
+pro-Russia Luxembourg {'weight': 1, 'tweet_id': 1511370733636702219, 'entail_prob': 0.27, 'contra_prob': 0.73}
+pro-Russia Netherlands {'weight': 53, 'tweet_id': 1496680438894632964, 'entail_prob': 0.53, 'contra_prob': 0.47}
+pro-Russia Belgium {'weight': 96, 'tweet_id': 1493924136401485827, 'entail_prob': 0.36, 'contra_prob': 0.64}
+pro-Russia Senegal {'weight': 1, 'tweet_id': 1532324132628611075, 'entail_prob': 0.71, 'contra_prob': 0.29}
+pro-Russia Poland {'weight': 33, 'tweet_id': 1585379002805780483, 'entail_prob': 0.41, 'contra_prob': 0.59}
+pro-Russia Indonesia {'weight': 128, 'tweet_id': 1498181269628551168, 'entail_prob': 0.31, 'contra_prob': 0.69}
+pro-Russia Argentina {'weight': 215, 'tweet_id': 1501717916089294849, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Russia Cuba {'weight': 6, 'tweet_id': 1615061505115885604, 'entail_prob': 0.39, 'contra_prob': 0.61}
+pro-Russia Mexico {'weight': 118, 'tweet_id': 1497412815476428806, 'entail_prob': 0.59, 'contra_prob': 0.41}
+pro-Russia Venezuela {'weight': 100, 'tweet_id': 1516272880690077696, 'entail_prob': 0.23, 'contra_prob': 0.77}
+pro-Russia Guatemala {'weight': 12, 'tweet_id': 1496933873787318272, 'entail_prob': 0.67, 'contra_prob': 0.33}
+pro-Russia Honduras {'weight': 4, 'tweet_id': 1501251168571437059, 'entail_prob': 0.34, 'contra_prob': 0.66}
+pro-Russia Colombia {'weight': 30, 'tweet_id': 1497169517708861443, 'entail_prob': 0.3, 'contra_prob': 0.7}
+pro-Russia Bolivia {'weight': 7, 'tweet_id': 1513119185102114818, 'entail_prob': 0.59, 'contra_prob': 0.41}
+pro-Russia Panama {'weight': 20, 'tweet_id': 1496855658066493451, 'entail_prob': 0.4, 'contra_prob': 0.6}
+pro-Russia Peru {'weight': 6, 'tweet_id': 1497207305481474049, 'entail_prob': 0.43, 'contra_prob': 0.57}
+pro-Russia Uruguay {'weight': 6, 'tweet_id': 1494808722379575296, 'entail_prob': 0.27, 'contra_prob': 0.73}
+pro-Russia Nicaragua {'weight': 9, 'tweet_id': 1508538252990496769, 'entail_prob': 0.45, 'contra_prob': 0.55}
+pro-Russia Ecuador {'weight': 7, 'tweet_id': 1496694253174542339, 'entail_prob': 0.4, 'contra_prob': 0.6}
+pro-Russia Republic of Ireland {'weight': 35, 'tweet_id': 1496825780663250944, 'entail_prob': 0.53, 'contra_prob': 0.47}
+pro-Russia Australia {'weight': 42, 'tweet_id': 1500644909929275393, 'entail_prob': 0.38, 'contra_prob': 0.62}
+pro-Russia Nigeria {'weight': 6, 'tweet_id': 1500951896273604611, 'entail_prob': 0.33, 'contra_prob': 0.67}
+pro-Russia Malaysia {'weight': 15, 'tweet_id': 1585933679075143681, 'entail_prob': 0.62, 'contra_prob': 0.38}
+pro-Russia South Africa {'weight': 8, 'tweet_id': 1499633882978824196, 'entail_prob': 0.52, 'contra_prob': 0.48}
+pro-Russia Lithuania {'weight': 1, 'tweet_id': 1628416377118765058, 'entail_prob': 0.3, 'contra_prob': 0.7}
+pro-Russia Taiwan {'weight': 1, 'tweet_id': 1578399751409524736, 'entail_prob': 0.33, 'contra_prob': 0.67}
+pro-Russia Ghana {'weight': 1, 'tweet_id': 1509492119181926400, 'entail_prob': 0.22, 'contra_prob': 0.78}
+pro-Russia Afghanistan {'weight': 1, 'tweet_id': 1498584943840342024, 'entail_prob': 0.31, 'contra_prob': 0.69}
+pro-Russia Hong Kong {'weight': 1, 'tweet_id': 1662572536469807105, 'entail_prob': 0.92, 'contra_prob': 0.08}
+pro-Russia Kazakhstan {'weight': 3, 'tweet_id': 1497202257955332102, 'entail_prob': 0.3, 'contra_prob': 0.7}
+Slovakia Europe {}
+Italy Europe {}
+India Asia {}
+Czech Republic Europe {}
+France Europe {}
+Ukraine Europe {}
+Nepal Asia {}
+Japan Asia {}
+United States of America North America {}
+Azerbaijan Asia {}
+South Africa Africa {}
+South Korea Asia {}
+Latvia Europe {}
+Saudi Arabia Middle East {}
+United Arab Emirates Middle East {}
+Turkey Middle East {}
+Qatar Middle East {}
+Israel Middle East {}
+Egypt Middle East {}
+Lebanon Middle East {}
+State of Palestine Middle East {}
+People's Republic of China Asia {}
+Germany Europe {}
+Algeria Middle East {}
+Morocco Middle East {}
+Tunisia Middle East {}
+Iraq Middle East {}
+United Kingdom Europe {}
+Syria Middle East {}
+Iran Middle East {}
+Libya Middle East {}
+Bahrain Middle East {}
+Kuwait Middle East {}
+Australia Oceania {}
+Nigeria Africa {}
+Singapore Asia {}
+Pakistan Asia {}
+Canada North America {}
+Malaysia Asia {}
+Philippines Asia {}
+Afghanistan Asia {}
+Argentina South America {}
+Portugal Europe {}
+Brazil South America {}
+Chile South America {}
+Mexico North America {}
+Spain Europe {}
+Bulgaria Europe {}
+Slovenia Europe {}
+Finland Europe {}
+Thailand Asia {}
+Denmark Europe {}
+Norway Europe {}
+Tuvalu Oceania {}
+Sweden Europe {}
+Lithuania Europe {}
+Romania Europe {}
+Bangladesh Asia {}
+Greece Europe {}
+Cyprus Middle East {}
+Russia Europe {}
+Kazakhstan Asia {}
+Belarus Europe {}
+Poland Europe {}
+Hungary Europe {}
+Switzerland Europe {}
+Austria Europe {}
+Luxembourg Europe {}
+Republic of Ireland Europe {}
+Netherlands Europe {}
+Belgium Europe {}
+Senegal Africa {}
+Indonesia Asia {}
+Haiti North America {}
+Monaco Europe {}
+Cuba North America {}
+Colombia South America {}
+Venezuela South America {}
+Nicaragua North America {}
+Guatemala North America {}
+Peru South America {}
+Honduras North America {}
+Ecuador South America {}
+Panama North America {}
+Bolivia South America {}
+Uruguay South America {}
+El Salvador North America {}
+Paraguay South America {}
+Costa Rica North America {}
+Dominican Republic North America {}
+Equatorial Guinea Africa {}
+Ghana Africa {}
+Uganda Africa {}
+Kenya Africa {}
+Republic of the Congo Africa {}
+Fiji Oceania {}
+Croatia Europe {}
+Bosnia and Herzegovina Europe {}
+Jamaica North America {}
+Barbados North America {}
+Taiwan Asia {}
+New Zealand Oceania {}
+Ethiopia Africa {}
+Georgia Europe {}
+Estonia Europe {}
+Serbia Europe {}
+Trinidad and Tobago North America {}
+North Korea Asia {}
+Papua New Guinea Oceania {}
+Myanmar Asia {}
+Uzbekistan Asia {}
+Hong Kong Asia {}
+Sudan Middle East {}
+Suriname South America {}
+Kyrgyzstan Asia {}
