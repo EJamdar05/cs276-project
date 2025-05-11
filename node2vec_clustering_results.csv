@@ -1,0 +1,119 @@
+node,type,K-Means,Hierarchical,Spectral
+unsure,stance,0,0,1
+pro-Ukraine,stance,0,0,1
+pro-Russia,stance,0,0,1
+Slovakia,country,1,0,0
+Italy,country,0,0,1
+India,country,0,0,1
+Czech Republic,country,0,0,1
+France,country,0,0,1
+Ukraine,country,0,0,1
+Nepal,country,1,1,0
+Japan,country,0,0,1
+United States of America,country,0,0,1
+Azerbaijan,country,1,1,0
+South Africa,country,1,1,0
+South Korea,country,1,1,0
+Latvia,country,1,1,0
+Saudi Arabia,country,0,0,1
+United Arab Emirates,country,0,0,1
+Turkey,country,0,0,1
+Qatar,country,0,0,1
+Israel,country,0,0,1
+Egypt,country,0,0,1
+Lebanon,country,0,0,1
+State of Palestine,country,0,0,1
+People's Republic of China,country,0,0,1
+Germany,country,0,0,1
+Algeria,country,0,0,1
+Morocco,country,0,0,1
+Tunisia,country,1,1,0
+Iraq,country,0,0,1
+United Kingdom,country,0,0,1
+Syria,country,0,0,1
+Iran,country,0,0,1
+Libya,country,1,1,0
+Bahrain,country,1,1,0
+Kuwait,country,1,1,0
+Australia,country,0,0,1
+Nigeria,country,0,0,1
+Singapore,country,0,0,1
+Pakistan,country,0,0,1
+Canada,country,0,0,1
+Malaysia,country,0,0,1
+Philippines,country,0,0,1
+Afghanistan,country,1,1,0
+Argentina,country,0,0,1
+Portugal,country,0,0,1
+Brazil,country,0,0,1
+Chile,country,0,0,1
+Mexico,country,0,0,1
+Spain,country,0,0,1
+Bulgaria,country,1,1,0
+Slovenia,country,1,1,0
+Finland,country,0,0,1
+Thailand,country,0,0,1
+Denmark,country,0,0,1
+Norway,country,0,0,1
+Tuvalu,country,1,1,0
+Sweden,country,0,0,1
+Lithuania,country,1,1,0
+Romania,country,0,0,1
+Bangladesh,country,0,0,1
+Greece,country,0,0,1
+Cyprus,country,0,0,1
+Russia,country,0,0,1
+Kazakhstan,country,1,1,0
+Belarus,country,0,0,1
+Poland,country,0,0,1
+Hungary,country,1,1,0
+Switzerland,country,0,0,1
+Austria,country,1,1,0
+Luxembourg,country,1,1,0
+Republic of Ireland,country,0,0,1
+Netherlands,country,0,0,1
+Belgium,country,0,0,1
+Senegal,country,1,1,0
+Indonesia,country,0,0,1
+Haiti,country,1,1,0
+Monaco,country,1,1,0
+Cuba,country,1,1,0
+Colombia,country,0,0,1
+Venezuela,country,0,0,1
+Nicaragua,country,1,1,0
+Guatemala,country,1,1,0
+Peru,country,1,1,0
+Honduras,country,1,1,0
+Ecuador,country,1,1,0
+Panama,country,0,0,1
+Bolivia,country,1,1,0
+Uruguay,country,1,1,0
+El Salvador,country,1,1,0
+Paraguay,country,1,1,0
+Costa Rica,country,1,1,0
+Dominican Republic,country,1,1,0
+Equatorial Guinea,country,1,1,0
+Ghana,country,1,1,0
+Uganda,country,1,1,0
+Kenya,country,1,1,0
+Republic of the Congo,country,1,1,0
+Fiji,country,1,1,0
+Croatia,country,1,1,0
+Bosnia and Herzegovina,country,1,1,0
+Jamaica,country,1,1,0
+Barbados,country,1,1,0
+Taiwan,country,1,1,0
+New Zealand,country,1,1,0
+Ethiopia,country,1,1,0
+Georgia,country,1,1,0
+Estonia,country,1,1,0
+Serbia,country,1,1,0
+Trinidad and Tobago,country,1,1,0
+North Korea,country,1,1,0
+Papua New Guinea,country,1,1,0
+Myanmar,country,1,1,0
+Uzbekistan,country,1,1,0
+Hong Kong,country,1,1,0
+Sudan,country,1,1,0
+Suriname,country,1,1,0
+Kyrgyzstan,country,1,1,0
